@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hewwo
 
 ### i am currently working on making my own website, adding features like authentication and things like that
 
