@@ -5,15 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 i am currently working on making my own website, adding features like authentication and things like that
-- 🌱 I’m currently learning ...
+
 i am currently learning web and game development, aswell as python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-anything you want
-- 📫 How to reach me: ...
+
+
+ask me about anything you want
+
 contact details: lexidafluffyhusky.102@gmail.com +1(407)235-3417
-- 😄 Pronouns: ...
-He/She/They
+- 😄 Pronouns: He/She/They
+
