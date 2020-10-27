@@ -1,5 +1,7 @@
 ### Hewwo
 
+### Im LexiDaFluffyHusky // FluffyHusky4418
+
 ### i am currently working on making my own website, adding features like authentication and things like that
 
 ### i am currently learning web and game development, aswell as python
