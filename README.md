@@ -2,15 +2,13 @@
 
 ### Im LexiDaFluffyHusky // FluffyHusky4418
 
-### i am currently working on making my own website, adding features like authentication and things like that
+### I am currently learning fullstack web and game development, aswell as python
 
-### i am currently learning web and game development, aswell as python
+### Ask me about anything you want
 
-### ask me about anything you want
+### Contact details: lexidafluffyhusky.102@gmail.com, +1(407)235-3417
 
-### contact details: lexidafluffyhusky.102@gmail.com +1(407)235-3417
-
-### i also have my own website too (its a pointless thing i did as a project, but hey) https://kaycehe.com
+### I also have my own website too (its a pointless thing that i made, but hey it works) https://kaycehe.com
 
 ### pronouns He/She/They
 
