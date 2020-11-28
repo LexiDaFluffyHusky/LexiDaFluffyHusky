@@ -8,7 +8,6 @@
 
 ### Contact details: lexidafluffyhusky.102@gmail.com, +1(407)235-3417
 
-### I also have my own website too (its a pointless thing that i made, but hey it works) https://kaycehe.com
 ### I also built the website located at https://thedevilspride.com
 
 ### pronouns He/She/They
