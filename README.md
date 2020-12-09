@@ -1,6 +1,6 @@
 ### Hewwo
 
-### Im LexiDaFluffyHusky // FluffyHusky4418
+### Im StarnightFox
 
 ### I am currently learning fullstack web and game development, aswell as python
 
@@ -8,7 +8,7 @@
 
 ### Contact details: lexidafluffyhusky.102@gmail.com, +1(407)235-3417
 
-### I also built the website located at https://thedevilspride.com
+### pronouns she/her/they 
 
-### pronouns He/She/They
+### nodeJS is fun and annoying at the same time
 
